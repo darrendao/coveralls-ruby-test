@@ -1,0 +1,1 @@
+# coveralls-ruby-test
